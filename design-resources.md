@@ -1,16 +1,15 @@
-Design Study plan
+# Design Study plan
 
-	Web page Design
+### Web page Design
+- A complete Guide to Web Design - first three chapters
 
-		A complete Guide to Web Design - first three chapters
-
-	Building blocks
+### Building blocks
 		Critical Components of Webui Style Guide
 
-		Colors
-		Images
-		Typography
-		Whitespace
+	- Colors
+	- Images
+	- Typography
+	- Whitespace
 
 UX career
 
@@ -23,16 +22,16 @@ UX
 
 More on Design - better
 
+#### Colors
+
 - Red is a great color to use when power, passion, strength and excitement want to be transmitted. Brighter tones are more energetic and darker shades are more powerful and elegant.
-Orange draws attention without being as overpowering as red. It means cheerfulness and creativity. Orange can be associated with friendliness, confidence, and courage.
-Yellow is energetic and gives the feeling of happiness and liveliness. Also, it associates with curiosity, intelligence, brightness, etc.
-Green is the color of harmony, nature, life and health. Also, it is often associated with money. In design, green can have a balancing and harmonizing effect.
-Blue means patience, peace, trustworthiness, and stability. It is one of the most beloved colors, especially by men. It is associated with professionalism, trust and honor. That's actually why the biggest social networks use blue.
-Purple is traditionally associated with power, nobility and wealth. In your design, purple can give a sense of wisdom, royalty, nobility, luxury, and mystery.
-Pink expresses romance, passivity, care, peace, affection, etc.
-Brown is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
-
-
+- Orange draws attention without being as overpowering as red. It means cheerfulness and creativity. Orange can be associated with friendliness, confidence, and courage.
+- Yellow is energetic and gives the feeling of happiness and liveliness. Also, it associates with curiosity, intelligence, brightness, etc.
+- Green is the color of harmony, nature, life and health. Also, it is often associated with money. In design, green can have a balancing and harmonizing effect.
+- Blue means patience, peace, trustworthiness, and stability. It is one of the most beloved colors, especially by men. It is associated with professionalism, trust and honor. That's actually why the biggest social networks use blue.
+- Purple is traditionally associated with power, nobility and wealth. In your design, purple can give a sense of wisdom, royalty, nobility, luxury, and mystery.
+- Pink expresses romance, passivity, care, peace, affection, etc.
+- Brown is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
 
 ### Resources
 - http://thehipperelement.com/
@@ -78,4 +77,24 @@ Brown is the color of relaxation and confidence. Brown means earthiness, nature,
 
 ### On the bus
 - https://www.creativebloq.com/inspiration/10-essential-ted-talks-for-ux-designers
+
+
+### Usability Testing tools
+1. Lookback.com
+2. Userzoom.com
+3. usertesting.com
+4. UsabilityHub.com
+5. Loop11.com
+6. userlytics.com
+
+### Usability Blogs
+1. Dropdbox design  -  https://dropbox.design
+2. UX studio        -  https://uxstudioteam.com/ux-blog
+3. Design Modo      -  https://designmodo.com/design/ux-design
+4. Inside Design    -  http://www.invisionapp.com
+5. Muzli	    -  http://medium.muz.li
+6. Abduzeedo        -  http://abduzeedo.com
+7. Airbnb Design    -  http://airbnb.design
+8. Design lab 	    -  http://designlab.com/blog	
+
 
