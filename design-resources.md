@@ -96,10 +96,19 @@ More on Design - better
 7. Airbnb Design    -  http://airbnb.design
 8. Design lab 	    -  http://designlab.com/blog	
 
-UX Design
-Learn UX Design (from YouTube):
-Ansh Mehra: https://www.youtube.com/c/AnshMehraUX
-The Futur: https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
+### Design websites
+https://www.apple.com/in/keynote/
+https://pitch.com
+https://picwish.com
+https://khroma.co
+https://shapefest.com
+https://spline.design
+
+
+### UX Design
+- Learn UX Design (from YouTube):
+- Ansh Mehra: https://www.youtube.com/c/AnshMehraUX
+- The Futur: https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
 AJ & Smart: https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw
 Flux: https://www.youtube.com/c/FluxWithRanSegall/featured
 Maex: https://www.youtube.com/c/SketchappTV/videos
