@@ -531,3 +531,23 @@ Ansh Mehra: https://www.linkedin.com/in/anshmehra24/
 Ruben (Adobe XD Ambassador): https://www.instagram.com/uiuxcreative/
 Punit Chawla (Founder, Designwings School): https://www.linkedin.com/in/punitweb/
 
+
+Design
+http://www.uxmatters.com/mt/archives/2017/01/using-card-sorting-to-create-stronger-information-architectures.php
+https://www.hcltech.com/blogs/design-thinking-evolution-and-innovation
+https://www.linkedin.com/pulse/putting-things-together-maniappan-r
+http://stackoverflow.com/questions/18074671/jquery-change-div-based-on-another-divs-position
+http://stackoverflow.com/questions/25211090/how-to-auto-adjust-the-div-size-for-all-mobile-tablet-display-formats
+https://css-tricks.com/responsive-data-tables/
+
+jnd.org
+nngroup.com
+continuminnovation
+cooper 
+smart design
+ziba design
+frog design
+adaptive path.org
+
+http://zeus-linux/cgi-bin/mcp/smoketest
+http://ciar.org/ttk/public/apigee.web_api.pdf
