@@ -1,5 +1,19 @@
 # Design Study plan
 
+### Figma UI Kits - figma.com/
+1. @atlassian
+2. @backstage
+3. @airtable
+4. @mondaydotcom
+5. @materialdesign
+6. @salesforce
+7. @microsoft
+8. @elastic
+9. @gitlab
+10. @voog
+11. @twilio
+12. @contentful
+
 ### Design resources
 
 Principle 1: #Colour
