@@ -1,6 +1,17 @@
 # Design Study plan
 
-### Figma UI Kits - figma.com/
+## Figma
+
+### Plugins
+1. Autoflow - Userflows
+2. Artboard - Product mockups
+3. Writer - Grammar + Spelling
+4. Coolors - Color generator
+5. Responsify - Test responsive UIs
+6. Lorem Ipsum - Dummy Texts
+7. 
+
+### UI Kits - figma.com/
 1. @atlassian
 2. @backstage
 3. @airtable
@@ -14,55 +25,33 @@
 11. @twilio
 12. @contentful
 
-### Design resources
+## Design resources
 
-Principle 1: #Colour
+- Principle 1: #Colour
  
-Learn the history of colour:
-https://lnkd.in/dCF4daw8. .
- 
-Learn the colour psychology:
-https://lnkd.in/d3RFrTbz
- 
-Learn the science behind how do we differentiate between colours.
-https://lnkd.in/d-45yEY3.
- 
-Learn the difference between RGB, CMYK, CMYKOGV, AND SPOT COLORS
-https://lnkd.in/dkaEXbjm
- 
- 
-Principle 2: #Typography
+Learn the history of colour:  https://lnkd.in/dCF4daw8. .
+Learn the colour psychology:  https://lnkd.in/d3RFrTbz
+Learn the science behind how do we differentiate between colours.  https://lnkd.in/d-45yEY3.
+Learn the difference between RGB, CMYK, CMYKOGV, AND SPOT COLORS   https://lnkd.in/dkaEXbjm
+  
+- Principle 2: #Typography
  
 Learn the history of typography: e.g., learn when and how did we started to use typefaces and how did the typeface evolve from printing to digital.
 https://lnkd.in/dPhdN_3k
+Learn about the typeface psychology: e.g., why does serif typefaces gives us the feeling of trust.    https://lnkd.in/dnzfu9EW
+Learn about how to choose typefaces in your design work.   https://lnkd.in/dsjrYAwp
  
-Learn about the typeface psychology: e.g., why does serif typefaces gives us the feeling of trust.
-https://lnkd.in/dnzfu9EW
+- Principle 3: #Layouts and #Composition   https://lnkd.in/dUyRybZd            https://lnkd.in/dBupcG8E
+
+- Principle 4: #WhiteSpace or #NegativeSpace    Learn the importance of white space and how to effective use white space to improvise your design
+https://lnkd.in/dpza-93T.   https://lnkd.in/du85FRkV.
+
+
+- Principle 5: #Consistency
+Learn what is consistency, why it is important and how to have consistency in design     https://lnkd.in/dKV-72fq
  
-Learn about how to choose typefaces in your design work.
-https://lnkd.in/dsjrYAwp
- 
-
-Principle 3: #Layouts and #Composition
-https://lnkd.in/dUyRybZd
-https://lnkd.in/dBupcG8E
-
-
-Principle 4: #WhiteSpace or #NegativeSpace
-Learn the importance of white space and how to effective use white space to improvise your design
-https://lnkd.in/dpza-93T.
-https://lnkd.in/du85FRkV.
-
-
-Principle 5: #Consistency
-Learn what is consistency, why it is important and how to have consistency in design
-https://lnkd.in/dKV-72fq
- 
-
-Principle 6: #GridSystem 
-Learn how to apply grid system and how we should align our design components in the grid 
-https://lnkd.in/d5EmB88U.
-
+- Principle 6: #GridSystem 
+Learn how to apply grid system and how we should align our design components in the grid  https://lnkd.in/d5EmB88U.
 
 
 ### Web page Design
@@ -79,9 +68,9 @@ UX career
 
 Components
 
-	Dashboard Design		
+Dashboard Design		
 BPs
-	RWD
+RWD
 UX 
 
 More on Design - better
@@ -138,10 +127,8 @@ More on Design - better
 - https://www.udemy.com/enhancing-photos-with-photoshop/
 - https://www.udemy.com/the-essential-uxui-designer-course/
 
-
 ### On the bus
 - https://www.creativebloq.com/inspiration/10-essential-ted-talks-for-ux-designers
-
 
 ### Usability Testing tools
 1. Lookback.com
@@ -162,30 +149,31 @@ More on Design - better
 8. Design lab 	    -  http://designlab.com/blog	
 
 ### Design websites
-https://www.apple.com/in/keynote/
-https://pitch.com
-https://picwish.com
-https://khroma.co
-https://shapefest.com
-https://spline.design
+- https://www.apple.com/in/keynote/
+- https://pitch.com
+- https://picwish.com
+- https://khroma.co
+- https://shapefest.com
+- https://spline.design
 
 
 ### UX Design
 - Learn UX Design (from YouTube):
 - Ansh Mehra: https://www.youtube.com/c/AnshMehraUX
 - The Futur: https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
-AJ & Smart: https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw
-Flux: https://www.youtube.com/c/FluxWithRanSegall/featured
-Maex: https://www.youtube.com/c/SketchappTV/videos
-Learn UX Design (from Professional Courses):
-Google UX Design Professional Certificate: https://www.coursera.org/professionalcertificates/google-ux-design
-Interaction Design Foundation: https://www.interaction-design.org/
-California Institute of the Arts: https://www.coursera.org/specializations/ui-ux-design
-UX Design Master Track Certificate by University of Minnesota:
-https://www.coursera.org/mastertrack/ux-design-minnesota
-User Experience Research & Design Specialization by University of Michigan:
-https://www.coursera.org/specializations/michiganux
-Miscellaneous UX Design resources (Find articles on the core concepts
+- AJ & Smart: https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw
+- Flux: https://www.youtube.com/c/FluxWithRanSegall/featured
+- Maex: https://www.youtube.com/c/SketchappTV/videos
+- Learn UX Design (from Professional Courses):
+- Google UX Design Professional Certificate: https://www.coursera.org/professionalcertificates/google-ux-design
+- Interaction Design Foundation: https://www.interaction-design.org/
+- California Institute of the Arts: https://www.coursera.org/specializations/ui-ux-design
+- UX Design Master Track Certificate by University of Minnesota:
+- https://www.coursera.org/mastertrack/ux-design-minnesota
+- User Experience Research & Design Specialization by University of Michigan:
+- https://www.coursera.org/specializations/michiganux
+- 
+- - Miscellaneous UX Design resources (Find articles on the core concepts
 of UX Design on below mentioned websites):
 UX Planet: https://uxplanet.org/
 UX Collective: https://uxdesign.cc/
