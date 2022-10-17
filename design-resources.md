@@ -1,5 +1,56 @@
 # Design Study plan
 
+### Design resources
+
+Principle 1: #Colour
+ 
+Learn the history of colour:
+https://lnkd.in/dCF4daw8. .
+ 
+Learn the colour psychology:
+https://lnkd.in/d3RFrTbz
+ 
+Learn the science behind how do we differentiate between colours.
+https://lnkd.in/d-45yEY3.
+ 
+Learn the difference between RGB, CMYK, CMYKOGV, AND SPOT COLORS
+https://lnkd.in/dkaEXbjm
+ 
+ 
+Principle 2: #Typography
+ 
+Learn the history of typography: e.g., learn when and how did we started to use typefaces and how did the typeface evolve from printing to digital.
+https://lnkd.in/dPhdN_3k
+ 
+Learn about the typeface psychology: e.g., why does serif typefaces gives us the feeling of trust.
+https://lnkd.in/dnzfu9EW
+ 
+Learn about how to choose typefaces in your design work.
+https://lnkd.in/dsjrYAwp
+ 
+
+Principle 3: #Layouts and #Composition
+https://lnkd.in/dUyRybZd
+https://lnkd.in/dBupcG8E
+
+
+Principle 4: #WhiteSpace or #NegativeSpace
+Learn the importance of white space and how to effective use white space to improvise your design
+https://lnkd.in/dpza-93T.
+https://lnkd.in/du85FRkV.
+
+
+Principle 5: #Consistency
+Learn what is consistency, why it is important and how to have consistency in design
+https://lnkd.in/dKV-72fq
+ 
+
+Principle 6: #GridSystem 
+Learn how to apply grid system and how we should align our design components in the grid 
+https://lnkd.in/d5EmB88U.
+
+
+
 ### Web page Design
 - A complete Guide to Web Design - first three chapters
 
