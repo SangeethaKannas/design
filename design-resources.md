@@ -1,5 +1,48 @@
 # Design Study plan
 
+### Design resources
+1. pageflows.com
+This is an amazing website for video walkthroughs of apps and websites. Design better user flows by learning from proven products. 
+
+2. screenlane.com
+A free alternative to mobbin, this website collects screenshot of amazing apps for you to review, take inspiration and see patterns.
+
+3. goodui.org
+Be it landing pages, funnels, ecommerce sites or apps, they actively publish results of amazing companies that learn from experimentation. Do’s and don'ts of UIs with best examples.
+
+4. figcomponents.com
+Best Figma components in one place. Discover, copy and paste UI components in Figma with the most efficient way to build designs. 
+
+5. stockai.com/
+100% free, yes! Find exactly the image you need. And if it doesn't exist, they will create it for you instantly. Better than paying stock photo websites.
+
+6. uifry.com
+Launching soon, this website helps UI UX designers to learn, grow and ship design faster with 1000+ UI templates, UX templates, briefs, job and quick learning videos.
+
+7. uxarchive.com
+The world's largest library of mobile user flows. UXArchive is the leading destination to find mobile UX trends from the world’s top mobile apps.
+
+8. uxfol.io
+Build your UX UI portfolio for free with built-in templates, hosting, and more.
+
+9. fontshare.com
+Breath-taking free fonts with commercial license. This website has literally changed my type game 100x times better!
+
+10. thenounproject.com
+Amazing free website with millions of icons for everyday use. I almost use the icons every day in my projects.
+
+11. colors.muz.li
+Generate and test color schemes live on your browser. The website is first on my list when starting the UI design phase.
+
+12. notion.so
+Organize your projects, and to-do lists, create projects and manage your career/business on the notion as a designer. I use it for my planning and design projects.
+
+13. figma.com/community
+If you are a figma user, this community website can help you access tools, plugins, and amazing free templates with design system instantly!
+
+14. justinmind.com/
+A free prototyping tool that can help you build prototypes and present to stakeholders faster.
+
 ## Figma
 
 ### Plugins
