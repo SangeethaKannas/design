@@ -27,6 +27,17 @@
 
 ## Design resources
 
+### Mockups
+1. https://mckups.com
+2. https://placeit.net
+3. https://pixelbuddha.net
+4. https://psdrepo.com
+5. https://mockupmark.com
+6. https://goodmockups.com
+7. https://www.anthonyboyd.graphics
+8. https://pixelsurplus.com
+9. 
+
 ### UX resources
 1. UX Database
 2. Tools.design
@@ -165,6 +176,16 @@ More on Design - better
 - https://khroma.co
 - https://shapefest.com
 - https://spline.design
+
+### Design learning websites
+- patttterns.net
+- lookup.design
+- screenlane.com
+- scrnshts.club
+- mobbin.design
+- pttrns.com
+- pageflows.com
+- 
 
 
 ### UX Design
@@ -463,9 +484,6 @@ Case Study: Template and Example:
 https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-studytemplate/
 
 
-
-
-
  
 6) Create Responsive Web Design in Adobe XD:
 Top Website Layouts that never grow old: https://xd.adobe.com/ideas/principles/webdesign/11-website-layouts-that-made-content-shine-in-2019/
@@ -497,8 +515,6 @@ Behance: https://www.behance.net/
 Smashing Magazine: https://www.smashingmagazine.com/jobs/
 LinkedIn: https://www.linkedin.com/jobs/
 Design Gigs for Good: https://www.designgigsforgood.org/
-
-
 
  
 7) Design for Social Good:
@@ -614,3 +630,97 @@ adaptive path.org
 
 http://zeus-linux/cgi-bin/mcp/smoketest
 http://ciar.org/ttk/public/apigee.web_api.pdf
+
+WIREFRAMING:
+o https://www.mybalsamiq.com
+o https://www.gliffy.com/uses/wireframe-software/
+o https://www.mockflow.com/
+o https://gomockingbird.com/home
+o http://www.justinmind.com/free
+ UX/ UI (User Experience & User Interface):
+o http://mailchimp.com/
+ BOOKS:
+ http://www.theuxbook.net/
+ https://shop.smashingmagazine.com/products/ux-ebook-bundle-13-
+ebooks
+
+ WEB FONTS:
+o https://www.google.com/fonts
+o http://fontsquirrel.com/
+o https://typekit.com/
+o https://www.fontspring.com/
+ TYPOGRAPHY TOOLS:
+o http://www.pearsonified.com/typography/
+o http://www.gridlover.net/try
+ WEB COLORS:
+o https://color.adobe.com/create/color-wheel/
+o http://www.checkmycolours.com/
+o http://paletton.com/
+o http://www.colourlovers.com/
+o http://colrd.com/
+ ICONS:
+o https://fortawesome.github.io/Font-Awesome/
+o http://www.typicons.com/
+ IMAGES FOR WEB:
+o http://www.imgopt.com/
+o https://kraken.io/web-interface
+o https://tinypng.com/
+o http://jpeg-optimizer.com/
+o http://optipng.sourceforge.net/
+o http://www.advsys.net/ken/util/pngout.htm
+o http://freecode.com/projects/jpegoptim
+ WHITESPACING:
+o http://demo.themezilla.com/hanna/
+o http://www.madebysofa.com/
+o http://www.informationarchitects.jp/en/
+
+o http://medium.com/
+ GETTING INSPIRATION:
+o http://themeforest.net/
+o http://www.themezilla.com/
+o https://www.behance.net/
+o https://dribbble.com/
+o https://www.thebestdesigns.com/
+o http://siiimple.com/
+o https://onepagelove.com/
+o http://www.cssdsgn.com/
+o https://bestwebsite.gallery/
+o http://styleboost.com/
+o http://www.siteinspire.com/
+o http://www.admiretheweb.com/blog/
+ CODE EDITORS:
+o http://brackets.io/
+o https://notepad-plus-plus.org/
+o http://www.sublimetext.com/
+ JQUERY:
+o https://jquery.com/
+
+ BOOTSTRAP:
+o http://getbootstrap.com/
+ JQUERY PLUGINS:
+o BX Slider
+ http://bxslider.com/examples/carousel-demystified#example1
+o Counter
+ http://imakewebthings.com/waypoints/
+ https://github.com/bfintal/Counter-Up/blob/master/jquery.counterup.min.js
+o Animation
+ https://daneden.github.io/animate.css/
+ http://mynameismatthieu.com/WOW/docs.html
+
+ RESPONSIVE LAYOUT:
+o http://www.w3schools.com/css/css_rwd_mediaqueries.asp
+o http://www.responsinator.com/
+o http://quirktools.com/
+
+ OPTIMIZATION, VALIDATION, TESTING:
+o VALIDATION:
+ https://validator.w3.org/
+o IMAGES OPTIMIZATION:
+ https://tinypng.com/
+ http://optimizilla.com/
+ http://www.imageoptimizer.net/Pages/Home.aspx
+
+ CONCLUSION:
+o www.upwork.com
+o http://freelance.com/
+o http://www.peopleperhour.com/
