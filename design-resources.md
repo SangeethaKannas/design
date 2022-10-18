@@ -9,7 +9,6 @@
 4. Coolors - Color generator
 5. Responsify - Test responsive UIs
 6. Lorem Ipsum - Dummy Texts
-7. 
 
 ### UI Kits - figma.com/
 1. @atlassian
@@ -24,6 +23,7 @@
 10. @voog
 11. @twilio
 12. @contentful
+13. Iconly 2.3
 
 ## Design resources
 
@@ -36,8 +36,71 @@
 6. https://goodmockups.com
 7. https://www.anthonyboyd.graphics
 8. https://pixelsurplus.com
-9. 
+9. freepik.com
+10. mockups-design.com
+11. ls.graphics
+12. mockupworld.co
+13. mockuptree.com
+14. unblast.com
+15. previewed.app
 
+### Icons
+1. iconsax.io
+2. icons8.com
+3. flaticon.com
+4. fonts.google.com/icons
+5. iconscout.com/free-icons
+6. thenounproject.com
+7. feathericons.com
+
+### Free Photographs
+1. pexels.com
+2. unsplash.com
+3. pixabay.com
+4. stocksnap.io
+5. burst.shopify.com/photos
+6. freeimages.com
+7. stockvault.net
+8. dreamstime.com
+
+### Free colors
+1. Adobe color
+2. material.io/resources
+3. flatuicolors.com
+4. colourhunt.co
+5. instagram.com/ui.colour/
+6. coolors.co
+7. pigment.shapefactory.co
+8. colors.muz.li
+
+### illustrations
+1. unDraw.co
+2. icons8.com/illustrations
+3. humaaans.com
+4. opendoodles.com\
+5. uistore.design/categories/illustrations
+6. /craftwork.design/downloads/category/freebies/
+
+### 3D packs
+1. SALY 3D pack (Figma), Nikuu 3D Pack
+2. BAM gumroad.com/l/bamilu
+3. Handz Handz.design
+4. Abstract Shapes
+5. iconscout.com/l/3d-abstract
+6. Best Pixels   behance.net/bestpixels
+7. ui8.net/categories/freebies
+8. icons8.com/illustrations/3d
+
+### Free typography
+1. Google Fonts   fonts.google.com
+2. Fontsquirrel.com
+3. dafont.com
+4. fontfabric.com/free-fonts
+5. fontbundles.net/free-fonts
+6. app.typeanything.io
+7. myfonts.com/WhattheFont
+8. typewolf.com
+9. 
 ### UX resources
 1. UX Database
 2. Tools.design
