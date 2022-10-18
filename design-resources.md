@@ -27,6 +27,16 @@
 
 ## Design resources
 
+### UX resources
+1. UX Database
+2. Tools.design
+3. UIHut
+4. UIScore
+5. DesignJunction
+6. WebdesignerDepot
+
+
+### Principles
 - Principle 1: #Colour
  
 Learn the history of colour:  https://lnkd.in/dCF4daw8. .
