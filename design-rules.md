@@ -9,4 +9,33 @@
 4. Choice limitation - One of the strong sides of minimalism in interfaces is enhanced user concentration
 5. Deep shadows- Huge mistake in design world. But often it can look better, if some lighter blacks is used, to remove use straing and huge contrast.
 6. Little Details matter - Designers think they only need to learn how to use colors and pace elements. But everything goes deeper than that.
-7.  
+
+
+## Pillars of UI Design : NPCI
+1. Navigation
+      User should be able to
+        a. Find what they want
+        b. to go back
+        c. know where they are
+        d. what to do next
+
+    Bad navigation may result in usability issues
+
+2. Presentation
+    Make visual processing easier
+      a. Create proper hierarchy
+      b. visual weight
+      c. alignment
+      d. Consistency
+
+3. Content
+    Design for scanning ( Users only scans)
+      a. Whitespace
+      b. Capitalization for tabs
+      c. Simple language
+      d. Avoiding Jargons
+
+4. Interaction
+    User flow to be intuitive and informative enough
+    User can understand how to complete tasks
+    Clear and visible info/alerts after task completing or failure
