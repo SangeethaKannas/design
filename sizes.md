@@ -27,5 +27,9 @@ Screen Size
 
     Iphone 8: 375 x 667,     Android: 360 x 640
 
-    Desktop
+    Desktop: 1440 x 1224   Others: 1920 x 1080 and 4342 x 4232
+
+    Tablet: 768: 1024
+
+    Watch:  Apple: 282 x 320 ( 40mm), 330 x 364 (44mm)
 

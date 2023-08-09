@@ -39,3 +39,23 @@
     User flow to be intuitive and informative enough
     User can understand how to complete tasks
     Clear and visible info/alerts after task completing or failure
+
+
+Unwritten laws of UX
+
+1. Company Logo always on left side
+    User may not come always through home page
+
+2. Search bar in navigation
+   Magnifying glass icon
+  Icons expands on clicked
+
+3. Login button always on right side
+  more to see and explore on website
+  improved bounce rate
+
+4. Equal contast in navigation bar
+  Navigation bar: first thing used for navigation
+
+5. Interactive animations
+  
