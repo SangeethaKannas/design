@@ -38,7 +38,6 @@ Popcorn time : Read and watch
 Courses
     Interaction Design Foundation,  Coursera, Linkedin Learnining,  Udemy, Udacity & Skillshar 
     
-    
 Step 4
 
 Build your basics: Design  Fundamentals/ Design Principles
